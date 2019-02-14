@@ -8,3 +8,13 @@ html {
 .cis260specialgreen {
     color: #2d8470;
 }
+
+.main-nav {
+    text-transform:capitalize;
+    color:red;
+    font-size: 14px;
+}
+
+#cis-special-parent a {
+    color:#9a6221;
+}
